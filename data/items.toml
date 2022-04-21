@@ -72,8 +72,8 @@ mail ="benjamin.rubinstein@unimelb.edu.au"
 
 [[research]]
 title = "Ni Ding"
-image = ""
-thumb = ""
+image = "images/full/NiDing.jpg"
+thumb = "images/thumb/NiDing.jpg"
 alt = "Ni Ding"
 description = "Dr Ding is interested in the optimization problems raised in cyber-security, statistical machine learning and information theory"
 url = "https://findanexpert.unimelb.edu.au/profile/869122-ni-ding" 
