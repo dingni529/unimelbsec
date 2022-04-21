@@ -70,6 +70,15 @@ mail ="benjamin.rubinstein@unimelb.edu.au"
 #url = ""
 #buttontext = "Visit researcher profile"
 
+[[research]]
+title = "Ni Ding"
+image = ""
+thumb = ""
+alt = "Ni Ding"
+description = "Dr Ding is interested in the optimization problems raised in cyber-security, statistical machine learning and information theory"
+url = "https://findanexpert.unimelb.edu.au/profile/869122-ni-ding" 
+buttontext = "Visit researcher profile"
+
 #for phds
 [[student]]
 title = "Pengbo Yan"
